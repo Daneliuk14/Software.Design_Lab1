@@ -20,8 +20,7 @@ class Program
       {
         var line = reader.ReadLine();
         var values = line.Split('|');
-        var without_qoutes = values[7].Trim(' ', ' ', '\t');
-        var street = without_qoutes.Split('.');
+        var street = values[7].Split('.');
 
         needed_values.Add(street[0]);
       }
