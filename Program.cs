@@ -19,7 +19,7 @@ class Program
       while (!reader.EndOfStream)
       {
         var line = reader.ReadLine();
-        var values = line.Split(',');
+        var values = line.Split('|');
         var without_qoutes = values[7].Trim(' ', ' ', '\t');
         var street = without_qoutes.Split('.');
 
