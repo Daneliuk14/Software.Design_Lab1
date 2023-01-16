@@ -1,0 +1,15 @@
+D:\School stuff\Software\Daniel\Labwork_1\bin\Debug\net6.0\Labwork_1.exe
+D:\School stuff\Software\Daniel\Labwork_1\bin\Debug\net6.0\Labwork_1.deps.json
+D:\School stuff\Software\Daniel\Labwork_1\bin\Debug\net6.0\Labwork_1.runtimeconfig.json
+D:\School stuff\Software\Daniel\Labwork_1\bin\Debug\net6.0\Labwork_1.dll
+D:\School stuff\Software\Daniel\Labwork_1\bin\Debug\net6.0\Labwork_1.pdb
+D:\School stuff\Software\Daniel\Labwork_1\obj\Debug\net6.0\Labwork_1.csproj.AssemblyReference.cache
+D:\School stuff\Software\Daniel\Labwork_1\obj\Debug\net6.0\Labwork_1.GeneratedMSBuildEditorConfig.editorconfig
+D:\School stuff\Software\Daniel\Labwork_1\obj\Debug\net6.0\Labwork_1.AssemblyInfoInputs.cache
+D:\School stuff\Software\Daniel\Labwork_1\obj\Debug\net6.0\Labwork_1.AssemblyInfo.cs
+D:\School stuff\Software\Daniel\Labwork_1\obj\Debug\net6.0\Labwork_1.csproj.CoreCompileInputs.cache
+D:\School stuff\Software\Daniel\Labwork_1\obj\Debug\net6.0\Labwork_1.dll
+D:\School stuff\Software\Daniel\Labwork_1\obj\Debug\net6.0\refint\Labwork_1.dll
+D:\School stuff\Software\Daniel\Labwork_1\obj\Debug\net6.0\Labwork_1.pdb
+D:\School stuff\Software\Daniel\Labwork_1\obj\Debug\net6.0\Labwork_1.genruntimeconfig.cache
+D:\School stuff\Software\Daniel\Labwork_1\obj\Debug\net6.0\ref\Labwork_1.dll
